@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { Mail, Github, Linkedin } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "./components/ui/button"; // or ../ if needed
+
 import { Card, CardContent } from "@/components/ui/card";
 
 // ---------------- SAMPLE DATA ---------------- //
