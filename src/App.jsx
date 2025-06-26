@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Mail, Github, Linkedin } from "lucide-react";
 import { Button } from "./components/ui/button"; // or ../ if needed
 
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "./components/ui/card";
 
 // ---------------- SAMPLE DATA ---------------- //
 // 👉 Replace these arrays with your real data ↓↓↓
